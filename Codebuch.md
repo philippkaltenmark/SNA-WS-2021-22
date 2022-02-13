@@ -9,6 +9,7 @@ erstellt von Philipp Kaltenmark (pk092@hdm-stuttgart.de)
 
 ## Ursprung und Datenerhebung
 
+Die Daten wurden dem Archiv von bundestag.de, abgeordnetenwatch.de, den Websites der PolitikerInnen, sowie ihren Wikipedia-Artikeln antnommen.
 Das Netzwerk ist ein *ungerichtetes two-mode Akteursnetzwerk*.
 
 
@@ -19,21 +20,27 @@ Das Netzwerk ist ein *ungerichtetes two-mode Akteursnetzwerk*.
 Identische ID wie aus der edgelist zur eindeutigen Identifikation der Knoten.
 
 **name_short**
+
 Nachname der PolitikerInnen
 
 **name**
+
 Name der PolitikerInnen/Organisationen
 
 **sex**    
-Bitte geben Sie ihr Geschlecht an:  
+
+Geschlecht
+
 1 = männlich 
 2 = weiblich 
 3 = divers
   
 **birth**
+
 Geburtsjahr
 
 **position**
+
 Aktuelle Position im Bundestag
 
 1 = StaatssekretärIn
@@ -41,6 +48,7 @@ Aktuelle Position im Bundestag
 3 = StaatsministerIn
 
 **education**
+
 höchster Bildungsabschluss
 
 1 = Promotion
@@ -49,6 +57,7 @@ höchster Bildungsabschluss
 4 = Sonstiges
 
 **party**
+
 Parteizugehörigkeit
 
 1 = SPD
@@ -56,6 +65,7 @@ Parteizugehörigkeit
 3 = FDP
 
 **religion**
+
 Religion
 
 1 = katholisch
@@ -63,9 +73,11 @@ Religion
 3 = muslimisch
 
 **kids**
+
 Anzahl der Kinder
 
 **twitter**
+
 Anzahl der Twitter-FollowerInnen
 
 1 = < 5000
@@ -74,6 +86,7 @@ Anzahl der Twitter-FollowerInnen
 4 = > 20000
 
 **instagram**
+
 Anzahl der Instagram-FollowerInnen
 
 1 = < 3000
@@ -81,6 +94,7 @@ Anzahl der Instagram-FollowerInnen
 3 = > 5000
 
 **facebook**
+
 Anzahl der Facebook-FollowerInnen
 
 1 = < 5000
@@ -89,6 +103,7 @@ Anzahl der Facebook-FollowerInnen
 4 = > 20000
 
 **youtube**
+
 Anzahl der YouTube-AbonnentInnen
 
 1 = < 35
@@ -100,9 +115,11 @@ Anzahl der YouTube-AbonnentInnen
 # EDGE-Attribute
 
 **id**  
+
 eindeutige Codierung des Knoten
 
 **relationship**
+
 Art der Verbindung der PolitikerInnen zu Organisationen
 
 1 = Ministerium
@@ -114,6 +131,7 @@ Art der Verbindung der PolitikerInnen zu Organisationen
 7 = Studienort im In- und Auslands
 
 **year**
+
 Jahr, in dem Variable relationship erhoben wurde
 
 ##
