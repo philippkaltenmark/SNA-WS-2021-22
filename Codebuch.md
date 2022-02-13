@@ -19,13 +19,16 @@ Das Netzwerk ist ein *ungerichtetes two-mode Akteursnetzwerk*.
 
 Identische ID wie aus der edgelist zur eindeutigen Identifikation der Knoten.
 
+
 **name_short**
 
 Nachname der PolitikerInnen
 
+
 **name**
 
 Name der PolitikerInnen/Organisationen
+
 
 **sex**    
 
@@ -36,10 +39,12 @@ Geschlecht
 2 = weiblich 
 
 3 = divers
+
   
 **birth**
 
 Geburtsjahr
+
 
 **position**
 
@@ -50,6 +55,7 @@ Aktuelle Position im Bundestag
 2 = BundesministerIn
 
 3 = StaatsministerIn
+
 
 **education**
 
@@ -63,6 +69,7 @@ höchster Bildungsabschluss
 
 4 = Sonstiges
 
+
 **party**
 
 Parteizugehörigkeit
@@ -72,6 +79,7 @@ Parteizugehörigkeit
 2 = DIE GRÜNEN
 
 3 = FDP
+
 
 **religion**
 
@@ -83,9 +91,11 @@ Religion
 
 3 = muslimisch
 
+
 **kids**
 
 Anzahl der Kinder
+
 
 **twitter**
 
@@ -99,6 +109,7 @@ Anzahl der Twitter-FollowerInnen
 
 4 = > 20000
 
+
 **instagram**
 
 Anzahl der Instagram-FollowerInnen
@@ -108,6 +119,7 @@ Anzahl der Instagram-FollowerInnen
 2 = 3000 - 5000
 
 3 = > 5000
+
 
 **facebook**
 
@@ -120,6 +132,7 @@ Anzahl der Facebook-FollowerInnen
 3 = 10000 - 20000
 
 4 = > 20000
+
 
 **youtube**
 
@@ -134,11 +147,13 @@ Anzahl der YouTube-AbonnentInnen
 4 = > 100
 
 
+
 # EDGE-Attribute
 
 **id**  
 
 eindeutige Codierung des Knoten
+
 
 **relationship**
 
@@ -157,6 +172,7 @@ Art der Verbindung der PolitikerInnen zu Organisationen
 6 = Berufstätigkeiten
 
 7 = Studienort im In- und Auslands
+
 
 **year**
 
