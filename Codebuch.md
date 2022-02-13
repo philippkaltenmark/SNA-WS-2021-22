@@ -13,24 +13,6 @@ Das Netzwerk ist ein *ungerichtetes two-mode Akteursnetzwerk*.
 
 
 # NODE-Attribute  
-
-
--   id (identisch mit edgelist, aber hier nur einmalige Nennung),
--   name_short (Nachname)
--   name (voller Name)
--   type (0 = Person, 1 = Organisation/Ort/Verband etc.),
--   sex (Geschlecht)
--   birth (Geburtsjahr)
--   position (jetzige Position, z.B. Staatssekretär:in, Minister)
--   education (höchster Bildungsabschluss)
--   subject (Fachrichtung bei Studium/Promotion)
--   party (Parteizugehörigkeit)
--   religion (Religion)
--   kids (Anzahl der Kinder)
--   twitter (Anzahl follower)
--   instagram (Anzahl follower)
--   facebook (Anzahl follower)
--   youtube (Anzahl Abonnenten)
   
 **id**  
 Identische ID wie aus der edgelist zur eindeutigen Identifikation der Knoten.
