@@ -1,4 +1,4 @@
-# Datensatz Semesterverbund CRPR2 #
+# Datensatz Bundestagsabgeordnete #
 Codebuch Stand 2022-02, aktualisiert 2022-02
 erstellt von Philipp Kaltenmark (pk092@hdm-stuttgart.de)
 
