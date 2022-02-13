@@ -32,7 +32,9 @@ Name der PolitikerInnen/Organisationen
 Geschlecht
 
 1 = männlich 
+
 2 = weiblich 
+
 3 = divers
   
 **birth**
@@ -44,7 +46,9 @@ Geburtsjahr
 Aktuelle Position im Bundestag
 
 1 = StaatssekretärIn
+
 2 = BundesministerIn
+
 3 = StaatsministerIn
 
 **education**
@@ -52,8 +56,11 @@ Aktuelle Position im Bundestag
 höchster Bildungsabschluss
 
 1 = Promotion
+
 2 = Diplom
+
 3 = Staatsexamen
+
 4 = Sonstiges
 
 **party**
@@ -61,7 +68,9 @@ höchster Bildungsabschluss
 Parteizugehörigkeit
 
 1 = SPD
+
 2 = DIE GRÜNEN
+
 3 = FDP
 
 **religion**
@@ -69,7 +78,9 @@ Parteizugehörigkeit
 Religion
 
 1 = katholisch
+
 2 = evangelisch
+
 3 = muslimisch
 
 **kids**
@@ -81,8 +92,11 @@ Anzahl der Kinder
 Anzahl der Twitter-FollowerInnen
 
 1 = < 5000
+
 2 = 5000 - 10000
+
 3 = 10000 - 20000
+
 4 = > 20000
 
 **instagram**
@@ -90,7 +104,9 @@ Anzahl der Twitter-FollowerInnen
 Anzahl der Instagram-FollowerInnen
 
 1 = < 3000
+
 2 = 3000 - 5000
+
 3 = > 5000
 
 **facebook**
@@ -98,8 +114,11 @@ Anzahl der Instagram-FollowerInnen
 Anzahl der Facebook-FollowerInnen
 
 1 = < 5000
+
 2 = 5000 - 10000
+
 3 = 10000 - 20000
+
 4 = > 20000
 
 **youtube**
@@ -107,8 +126,11 @@ Anzahl der Facebook-FollowerInnen
 Anzahl der YouTube-AbonnentInnen
 
 1 = < 35
+
 2 = 35 - 50
+
 3 = 50 - 100
+
 4 = > 100
 
 
@@ -123,11 +145,17 @@ eindeutige Codierung des Knoten
 Art der Verbindung der PolitikerInnen zu Organisationen
 
 1 = Ministerium
+
 2 = politische Funktionen
+
 3 = Ehrenamt
+
 4 = Unternehmen und Aufsichtsräte
+
 5 = Stipendien
+
 6 = Berufstätigkeiten
+
 7 = Studienort im In- und Auslands
 
 **year**
