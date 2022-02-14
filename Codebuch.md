@@ -29,15 +29,15 @@ Name der PolitikerInnen/Organisationen
 **type**
 Art des Knotens
 
-0 = Person,
-1 = Organisation/Institution,
+0 = Person    
+1 = Organisation/Institution     
 
 **sex**    
 Geschlecht
 
-1 = männlich 
-2 = weiblich 
-3 = divers
+1 = männlich       
+2 = weiblich    
+3 = divers    
 
   
 **birth**
