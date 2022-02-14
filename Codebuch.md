@@ -29,6 +29,10 @@ Nachname der PolitikerInnen
 
 Name der PolitikerInnen/Organisationen
 
+**type*
+
+0 = Person
+1 = Organisation/Institution
 
 **sex**    
 
