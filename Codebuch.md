@@ -20,21 +20,19 @@ Identische ID wie aus der edgelist zur eindeutigen Identifikation der Knoten.
 
 
 **name_short**
-
 Nachname der PolitikerInnen
 
 
 **name**
-
 Name der PolitikerInnen/Organisationen
 
-**type*
+**type**
+Art des Knotens
 
 0 = Person
 1 = Organisation/Institution
 
 **sex**    
-
 Geschlecht
 
 1 = männlich 
@@ -45,12 +43,10 @@ Geschlecht
 
   
 **birth**
-
 Geburtsjahr
 
 
 **position**
-
 Aktuelle Position im Bundestag
 
 1 = StaatssekretärIn
@@ -61,7 +57,6 @@ Aktuelle Position im Bundestag
 
 
 **education**
-
 höchster Bildungsabschluss
 
 1 = Promotion
@@ -74,7 +69,6 @@ höchster Bildungsabschluss
 
 
 **party**
-
 Parteizugehörigkeit
 
 1 = SPD
@@ -85,7 +79,6 @@ Parteizugehörigkeit
 
 
 **religion**
-
 Religion
 
 1 = katholisch
@@ -96,7 +89,6 @@ Religion
 
 
 **kids**
-
 Anzahl der Kinder
 
 
