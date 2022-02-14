@@ -10,7 +10,7 @@ erstellt von Philipp Kaltenmark (pk092@hdm-stuttgart.de)
 ## Ursprung und Datenerhebung
 
 Die Daten wurden dem Archiv von bundestag.de, abgeordnetenwatch.de, den Websites der PolitikerInnen, sowie ihren Wikipedia-Artikeln antnommen.
-Das Netzwerk ist ein *ungerichtetes two-mode Akteursnetzwerk*.
+Das Netzwerk ist ein *gerichtetes two-mode Netzwerk*.
 
 
 # NODE-Attribute  
