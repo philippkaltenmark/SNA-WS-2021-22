@@ -16,7 +16,6 @@ Das Netzwerk ist ein *gerichtetes two-mode Netzwerk*.
 # NODE-Attribute  
   
 **id**  
-
 Identische ID wie aus der edgelist zur eindeutigen Identifikation der Knoten.
 
 
