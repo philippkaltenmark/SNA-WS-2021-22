@@ -47,18 +47,18 @@ Geburtsjahr
 **position**
 Aktuelle Position im Bundestag
 
-1 = StaatssekretärIn
-2 = BundesministerIn
-3 = StaatsministerIn
+1 = StaatssekretärIn      
+2 = BundesministerIn        
+3 = StaatsministerIn     
 
 
 **education**
 höchster Bildungsabschluss
 
-1 = Promotion
-2 = Diplom
-3 = Staatsexamen
-4 = Sonstiges
+1 = Promotion     
+2 = Diplom       
+3 = Staatsexamen     
+4 = Sonstiges       
 
 
 **party**
