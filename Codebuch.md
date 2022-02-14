@@ -29,8 +29,8 @@ Name der PolitikerInnen/Organisationen
 **type**
 Art des Knotens
 
-0 = Person
-1 = Organisation/Institution
+0 = Person,
+1 = Organisation/Institution,
 
 **sex**    
 Geschlecht
